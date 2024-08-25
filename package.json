@@ -1,0 +1,15 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "strat": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
